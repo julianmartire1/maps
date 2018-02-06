@@ -1,1 +1,1 @@
-# maps
+npm install @ngui/map @types/googlemaps --save
